@@ -52,6 +52,8 @@ Accuracies of the three approaches on different types of questions:
 ![image](https://user-images.githubusercontent.com/38180831/213111127-0a544e38-71b2-4a1b-be89-061bb7cde1a0.png)
 ![image](https://user-images.githubusercontent.com/38180831/213111162-b7fb9ef1-cf8b-4eec-bdf9-82dda941fd4e.png)
 
+## Contribution
+We welcome contributions from the community. If you have any ideas on how to improve the model or the code, feel free to open a pull request.
 
 ## References
 * Paper implementation
