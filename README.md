@@ -1,10 +1,10 @@
 # Visual Question Answering (VQA)
 This project aims to implement a Visual Question Answering (VQA) system using a multimodal architecture. The system takes in an image and a question as inputs, and produces an answer as output. The goal is to use the image to generate the correct answer to the question asked, by using a CNN and an LSTM.
 
-## Baseline DL Approach
+## Baseline Deep Learning Approach
 The baseline DL approach consisted of a CNN and an LSTM, which produced an accuracy of 35.36%.
 
-## Advanced DL Approach
+## Advanced Deep Learning Approach
 To improve the performance of the VQA system, we added a stacked attention layer to the architecture, creating the advanced DL approach. This resulted in an accuracy of 54.82%. The advanced DL approach produced visually reasonable and logically sound answers among its top-5 predictions. The stacked attention layers helped in multi-step reasoning and focusing on relevant portions of the image to detect the answer.
 
 ## Dataset
