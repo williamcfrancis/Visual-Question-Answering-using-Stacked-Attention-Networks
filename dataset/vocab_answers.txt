@@ -1,0 +1,1000 @@
+<unk>
+no
+yes
+2
+1
+white
+3
+red
+black
+blue
+0
+4
+green
+brown
+yellow
+5
+gray
+6
+tennis
+baseball
+frisbee
+nothing
+orange
+right
+left
+wood
+pizza
+bathroom
+kitchen
+pink
+7
+none
+8
+cat
+dog
+skiing
+grass
+man
+water
+10
+silver
+skateboarding
+black and white
+horse
+kite
+surfing
+skateboard
+giraffe
+snow
+tan
+9
+cake
+surfboard
+wii
+broccoli
+phone
+living room
+elephant
+purple
+stop
+apple
+12
+table
+soccer
+food
+woman
+eating
+sunny
+banana
+unknown
+train
+winter
+sheep
+hat
+bus
+standing
+snowboarding
+umbrella
+male
+motorcycle
+beach
+maybe
+bear
+cow
+laptop
+outside
+wine
+clear
+female
+zebra
+camera
+20
+trees
+many
+walking
+brick
+metal
+sitting
+flowers
+bedroom
+bird
+bench
+tile
+15
+hot dog
+night
+summer
+bed
+11
+plane
+bananas
+down
+car
+beige
+sandwich
+cloudy
+cell phone
+fork
+up
+beer
+tree
+kites
+ground
+donut
+sand
+chair
+red and white
+blue and white
+boat
+helmet
+plate
+glass
+wall
+horses
+ball
+bike
+people
+13
+bat
+girl
+day
+street
+cows
+cheese
+nike
+skis
+fence
+birthday
+dirt
+not sure
+blonde
+glasses
+truck
+knife
+airplane
+coffee
+snowboard
+english
+boy
+square
+plastic
+couch
+floor
+ocean
+open
+round
+suitcase
+lot
+afternoon
+14
+tv
+computer
+fall
+concrete
+tennis racket
+tie
+stripes
+toilet
+airport
+person
+christmas
+25
+fruit
+zoo
+no one
+30
+toothbrush
+overcast
+paper
+clock
+teddy bear
+spoon
+old
+usa
+chicken
+playing
+carrots
+scissors
+flying kite
+chocolate
+16
+carpet
+closed
+donuts
+sidewalk
+breakfast
+daytime
+elephants
+park
+50
+building
+city
+field
+bicycle
+cold
+light
+remote
+sleeping
+window
+stone
+mirror
+spring
+birds
+rectangle
+home
+clouds
+sun
+on table
+leaves
+sky
+morning
+wedding
+chinese
+evening
+happy
+dell
+desk
+inside
+road
+lettuce
+restaurant
+cooking
+mountains
+apples
+wii remote
+gold
+office
+circle
+white and black
+carrot
+dinner
+playing wii
+house
+100
+africa
+palm
+brown and white
+small
+both
+plaid
+bread
+sunglasses
+luggage
+oranges
+mountain
+vegetables
+nowhere
+fish
+neither
+noon
+short
+asian
+racket
+on
+tomato
+wetsuit
+microwave
+american
+fire hydrant
+giraffes
+18
+sign
+shirt
+picture
+backpack
+bag
+counter
+towel
+flower
+striped
+hair
+not possible
+pepperoni
+child
+baby
+graffiti
+jeans
+adidas
+zebras
+front
+milk
+several
+ski poles
+hay
+sink
+refrigerator
+bowl
+watch
+outdoors
+oak
+real
+book
+london
+grazing
+lunch
+cement
+white and blue
+vase
+17
+wii controller
+color
+books
+salad
+unsure
+solid
+rocks
+forward
+catcher
+very
+rain
+40
+shorts
+pole
+lights
+motorcycles
+church
+cars
+keyboard
+gas
+mouse
+spinach
+middle
+off
+pine
+blanket
+box
+24
+electric
+floral
+shoes
+hand
+talking
+new york
+leather
+clothes
+drinking
+china
+playing tennis
+rock
+posing
+smiling
+soup
+background
+lake
+ketchup
+air
+glove
+oven
+england
+bricks
+hot dogs
+young
+collar
+resting
+police
+america
+white and red
+bridge
+flying
+windows
+cream
+hotel
+sandals
+dessert
+ski
+red and black
+22
+skating
+controller
+rose
+passenger
+umbrellas
+warm
+23
+long
+green and white
+roses
+shadow
+clean
+brushing teeth
+kite flying
+rug
+straight
+reading
+seagull
+rainy
+photographer
+no idea
+umpire
+cup
+21
+meat
+baseball bat
+river
+running
+triangle
+ceramic
+sneakers
+lamp
+living
+wilson
+surfboards
+lemon
+train station
+top
+pitcher
+adult
+stove
+fridge
+coca cola
+jacket
+jumping
+in air
+taking off
+batter
+beef
+soda
+doughnut
+hot
+indoors
+wild
+back
+tomatoes
+wire
+talking on phone
+riding
+steel
+sunset
+tennis court
+plant
+united states
+on wall
+19
+large
+on plate
+pillow
+canada
+nobody
+purse
+tennis ball
+safety
+on ground
+checkered
+rainbow
+red and yellow
+stop sign
+heart
+boots
+watching
+go
+away
+ford
+rope
+bears
+tracks
+poles
+bottle
+looking
+door
+north
+branch
+landing
+human
+flag
+parking
+blue and yellow
+playing frisbee
+toy
+scarf
+lots
+television
+goggles
+pepsi
+gloves
+wooden
+hydrant
+dogs
+paint
+delta
+oval
+calm
+on right
+downhill
+basket
+tower
+35
+east
+in water
+cap
+head
+tea
+28
+van
+dusk
+laying down
+shelf
+bikes
+store
+plain
+marble
+boats
+on left
+duck
+pictures
+peppers
+ponytail
+lab
+taking picture
+toilet paper
+coke
+guitar
+good
+strawberry
+one way
+jet
+parking lot
+men
+painting
+dining room
+strawberries
+school
+double decker
+necklace
+turkey
+tabby
+honda
+united
+samsung
+star
+vanilla
+mustard
+yellow and black
+ham
+new
+swimming
+flying kites
+board
+octagon
+cloth
+modern
+raining
+olives
+blender
+red and blue
+big
+white and brown
+italian
+decoration
+orange and white
+cotton
+texting
+rice
+bottom
+gray and white
+asphalt
+maroon
+football
+south
+shade
+smoke
+west
+suit
+full
+fries
+cannot tell
+27
+fishing
+blinds
+parking meter
+dirty
+ice cream
+water skiing
+urban
+nighttime
+wind
+skate park
+japan
+planes
+game
+yellow and blue
+plants
+to right
+sausage
+fan
+steam
+electricity
+clay
+dress
+cross
+bacon
+waves
+sauce
+ducks
+cutting board
+playing baseball
+tennis racquet
+headband
+desert
+juice
+behind
+on bed
+maple
+dark
+work
+surf
+orange juice
+p
+batting
+stainless steel
+granite
+onions
+moving
+tall
+60
+catching
+possibly
+daisy
+sofa
+helmets
+goat
+soccer ball
+smile
+to left
+trash can
+caucasian
+forest
+on desk
+curtain
+fire
+trash
+clock tower
+doughnuts
+sugar
+terrier
+polar bear
+women
+teal
+polo
+japanese
+hats
+public
+pants
+dry
+waiting
+above
+bracelet
+skateboards
+cats
+grapes
+farm
+sony
+w
+32
+playing game
+fake
+hp
+green and yellow
+headphones
+cargo
+yellow and red
+pepper
+pasta
+candles
+ramp
+stick
+stuffed animal
+buildings
+high
+harley
+face
+bull
+cart
+tiles
+india
+tray
+multi
+tulips
+no parking
+carriage
+hands
+low
+all
+market
+bmw
+sweater
+center
+us
+laying
+straw
+drink
+38
+video game
+cabinet
+diamond
+navy
+porcelain
+cutting
+subway
+french
+eggs
+a
+ceiling
+light blue
+wiimote
+pan
+toyota
+lady
+black and red
+bicycles
+yellow and white
+200
+55
+stripe
+potatoes
+protection
+26
+ring
+cutting cake
+parked
+pen
+bow
+out
+on floor
+wine glass
+flip flops
+blue and red
+hardwood
+scooter
+surfer
+indian
+on street
+candle
+one on right
+towels
+desktop
+driving
+california
+african
+polar
+45
+vegetable
+asia
+commercial
+seagulls
+station
+mac
+steak
+34
+wave
+wet
+bar
+regular
+napkin
+on counter
+skateboarder
+swan
+party
+pot
+collie
+softball
+france
+kia
+beard
+fire truck
+walk
+slow
+chairs
+sad
+family
+hit ball
+soap
+black white
+squares
+german
+calico
+brush
+tennis shoes
+b
+pavement
+pork
+reflection
+red and green
+baseball field
+military
+chain link
+sunlight
+nokia
+basketball
+white and green
+game controller
+white and gray
+basil
+rectangular
+racquet
+relaxing
+traffic
+2 feet
+bun
+parrot
+mozzarella
+peach
+rural
+pie
+twin
+fur
+in front
+chicago
+pigeon
+unclear
+parsley
+light brown
+bakery
+mutt
+newspaper
+parade
+shower
+paddle
+outdoor
+fork and knife
+29
+blue and black
+dock
+hill
+eagle
+business
+starbucks
+n
+frosting
+red sox
+children
+3 feet
+italy
+one on left
+medium
+tag
+country
+beans
+pink and white
+halloween
+chopsticks
+boston
+pineapple
+33
+phones
+butter
+bulldog
+string
+germany
+mushrooms
+right side
+art
+big ben
+egg
+fedex
+half
+motorbike
+remote control
+french fries
+lighthouse
+bandana
+corn
+curtains
+on road
+sandwiches
+onion
+empty
+crane
+working
+dunkin donuts
+on grass
+words
+cowboy
+dodgers
+roof
+coat
+little
+pickle
+c
+blue and green
+serving
+2012
+black and yellow
+pelican
+stairs
+bowling
+owl
+shoe
+net
+midday
+yamaha
+private
+apartment
+on sidewalk
+kid
+parasailing
+gravel
+poodle
+not very
+army
+sailboat
+yellow and green
+fabric
+spanish
+mercedes
+ski lift
+bush
+night time
+brown and black
+unanswerable
+statue
+icing
+natural
+cucumber
+cigarette
+asparagus
+chef
+roman
+t
+suv
+rail
+chain
+fast
+pug
+baseball cap
+sprinkles
+on beach
+wool
+plates
+in field
+10 feet
+42
+drywall
+queen
+pillows
+fireplace
+bus stop
+kids
+cookies
+san francisco
+visor
+german shepherd
+candy
+jump
+typing
+left side
+playing video game
+at camera
+transportation
+corner
+nice
+normal
+44
+staring
+woods
+monkey
+31
+racing
+grizzly
+fruits
+library
+downtown
+harley davidson
+black and gray
+handle
+europe
+cone
+fun
+balance
+kiting
+monitor
+teddy bears
+cherry
+giants
+beanie
+iron
+bags
+signs
+garbage
+2010
+bell
