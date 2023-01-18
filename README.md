@@ -7,6 +7,7 @@ This project aims to implement a Visual Question Answering (VQA) system using a 
 In our baseline approach, we implemented a 2-channel vision + language model, which fused embeddings from both these channels via point-wise multiplication. These fused embeddings were then passed through fully-connected layers. To obtain the answer, we generated a probability distribution over the range of
 possible answer classes.
 
+Architecture:
 ![image](https://user-images.githubusercontent.com/38180831/213108042-741bfe93-63de-4b9b-a958-0e2e3c489e74.png)
 
 
@@ -21,7 +22,7 @@ LSTM is a concatenation of the last cell state and last hidden state repre- sent
 embedding. This fused embedding is then passed through fully-connected layers. The Multi-Layer Perceptron unit consists of 2 linear layers, each with 1000 hidden units. Each of the hidden layers was also followed by a dropout layer (set to 0.5) and tanh nonlinearity. The MLP unit is then followed by a softmax layer to obtain a probabiltiy distribution over the 1000 possible words from the answer vocabulary.
 
 ## Advanced Deep Learning Approach
-
+Architecture:
 ![image](https://user-images.githubusercontent.com/38180831/213108602-17595b09-fc7d-44ba-a687-faaf6943a1ed.png)
 
 To improve the performance of the VQA system, we added a stacked attention layer to the architecture, creating the advanced DL approach. This resulted in an accuracy of 54.82%. The advanced DL approach produced visually reasonable and logically sound answers among its top-5 predictions. The stacked attention layers helped in multi-step reasoning and focusing on relevant portions of the image to detect the answer.
