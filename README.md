@@ -54,8 +54,14 @@ Accuracies of the three approaches on different types of questions:
 
 ## References
 * Paper implementation
-  + Keywords: Visual Question Answering ; Simple Attention; Stacked Attention; Top-Down Attention;
+  + Paper: VQA: Visual Question Answering
+  + URL: https://arxiv.org/pdf/1505.00468.pdf
     
-* Baseline Model
-  + Github: https://github.com/tbmoon/basic_vqa
+* Pytorch tutorial
+  + URL: https://pytorch.org/tutorials/
+  + Github: https://github.com/yunjey/pytorch-tutorial
+  + Github: https://github.com/GunhoChoi/PyTorch-FastCampus
 
+* Preprocessing
+  + Tensorflow implementation of N2NNM
+  + Github: https://github.com/ronghanghu/n2nmn
