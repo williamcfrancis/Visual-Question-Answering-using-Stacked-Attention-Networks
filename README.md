@@ -43,7 +43,7 @@ We have compiler the training and testing code in iPython Notebook to simplify t
 4. You can change the 'question' variable to a question you'd like to ask.
 
 ## Results
-This project aimed to implement a Visual Question Answering system using a multimodal architecture. The advanced DL approach, which included a stacked attention layer, outperformed the baseline, producing an accuracy of 54.82%. The stacked attention layers helped in multi-step reasoning and focusing on relevant portions of the image to detect the answer.
+The advanced DL approach, which included a stacked attention layer, outperformed the baseline, producing an accuracy of 54.82%. The stacked attention layers helped in multi-step reasoning and focusing on relevant portions of the image to detect the answer.
 
 Accuracies of the three approaches on different types of questions:
 ![image](https://user-images.githubusercontent.com/38180831/213110943-41998ffc-811c-4a0b-9625-c4fe727aa880.png)
