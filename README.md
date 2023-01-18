@@ -1,4 +1,5 @@
 # Visual Question Answering (VQA) using Stacked Attention Networks
+## Overview
 ![image](https://user-images.githubusercontent.com/38180831/213107520-51c9c570-8be5-4ee1-b874-a0d78856b727.png)
 
 This project aims to implement a Visual Question Answering (VQA) system using a multimodal architecture. The system takes in an image and a question as inputs, and produces an answer as output. The goal is to use the image to generate the correct answer to the question asked, by using a CNN and an LSTM.
